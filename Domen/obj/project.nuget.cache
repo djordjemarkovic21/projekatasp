@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "alIDjBSinzFJ9uoiR6YTKmIGOnZIA72aqdk+DCZUIggLvTd4VkrxCnnUw/xyaU7DBd3PXlMAzJnhCfCamalgNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Djordje\\Desktop\\ICT\\3.GODINA\\ASP\\Sajt\\BlogASP\\Domen\\Domen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Djordje\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Djordje\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Djordje\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

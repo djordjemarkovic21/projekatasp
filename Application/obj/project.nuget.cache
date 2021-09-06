@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Lhb2Z1pX6Q4ce4KSBh/kATMzA2F5g21ffCnvp6Hu/WcNxiHCbFYxsAsvDU5TQh5RyRXV73G7mqvoJhwZahG0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Djordje\\Desktop\\ICT\\3.GODINA\\ASP\\Sajt\\BlogASP\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Djordje\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.7\\microsoft.aspnetcore.http.features.5.0.7.nupkg.sha512",
+    "C:\\Users\\Djordje\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Djordje\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\Djordje\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Djordje\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Djordje\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Djordje\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
